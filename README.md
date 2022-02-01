@@ -2,7 +2,7 @@
 
 ### [Live Site](https://rohitkumar-chaudhari-portfolio.netlify.app/)
 
-![Portfolio Website](https://drive.google.com/file/d/10tAk5CJxlzlf6N6G96VSBMHNWocKyZ8F/view)
+![Portfolio Website](https://drive.google.com/file/d/10tAk5CJxlzlf6N6G96VSBMHNWocKyZ8F/view?usp=sharing)
 
 Setup:
 - run ```npm i && npm start```
