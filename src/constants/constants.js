@@ -9,6 +9,16 @@ export const projects = [
     visit: "https://mrrupendra.github.io/Dunzo_Clone/",
     id: 0,
   },
+  {
+    title: "Dunzo(clone)",
+    description:
+      "A web application to serve online delivery at minimal cost and time.",
+    image: "/images/1.jfif",
+    tags: ["CSS", "HTML", "JavaScript"],
+    source: "https://github.com/mayur8600/Dunzo",
+    visit: "https://mrrupendra.github.io/Dunzo_Clone/",
+    id: 0,
+  },
 ];
 
 export const TimeLineData = [

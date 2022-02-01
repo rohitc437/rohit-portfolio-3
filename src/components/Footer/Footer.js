@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-
+import { SectionTitle } from "../../styles/GlobalComponents";
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
   CompanyContainer,
@@ -17,6 +17,8 @@ import {
 const Footer = () => {
   return (
     <FooterWrapper>
+      <SectionTitle>Contact</SectionTitle>
+      {/* <LinkTitle className={{color:"red"}}>Contact</LinkTitle> */}
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
@@ -34,13 +36,25 @@ const Footer = () => {
           <Slogan>Innovating one project at a</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/rohitc437">
+          <SocialIcons
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://github.com/rohitc437"
+          >
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/rohitkumar-chaudhari-0160b9119">
+          <SocialIcons
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/rohitkumar-chaudhari-0160b9119"
+          >
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/rohitchaudhari_official/">
+          <SocialIcons
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.instagram.com/rohitchaudhari_official/"
+          >
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

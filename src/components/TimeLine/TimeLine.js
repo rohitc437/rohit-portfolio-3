@@ -112,7 +112,7 @@ const Timeline = () => {
           );
         })}
       </CarouselButtons>
-      <SectionDivider />
+      {/* <SectionDivider /> */}
     </Section>
   );
 };

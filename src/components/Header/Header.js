@@ -34,7 +34,7 @@ const Header = () => (
       </li>
       <li>
         <Link href="#tech">
-          <NavLink>Technologies</NavLink>
+          <NavLink>Skill</NavLink>
         </Link>
       </li>
       <li>
@@ -44,20 +44,31 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/rohitc437">
+      <SocialIcons
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://github.com/rohitc437"
+      >
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/rohitkumar-chaudhari-0160b9119">
+      <SocialIcons
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://www.linkedin.com/in/rohitkumar-chaudhari-0160b9119"
+      >
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/rohitchaudhari_official/">
+      <SocialIcons
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://www.instagram.com/rohitchaudhari_official/"
+      >
         <AiFillInstagram size="3rem" />
       </SocialIcons>
-      
+
       {/* <SocialIcons href="http://google.com">
         <AiFillFile size="3rem"></AiFillFile>
       </SocialIcons> */}
-
     </Div3>
   </Container>
 );
