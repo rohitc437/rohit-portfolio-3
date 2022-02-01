@@ -19,7 +19,7 @@ const Hero = (props) => (
           ></img>
           <br />
           <h5>
-            Rohitkumar <br />
+            Rohitkumar Chaduhari <br />
             Personal Portfolio
           </h5>
         </SectionTitle>
