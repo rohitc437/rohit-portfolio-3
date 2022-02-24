@@ -13,7 +13,7 @@ export const projects = [
     title: "E-Commerce Store",
     description: "A web application to serve online shoping Store.",
     image: "/images/2.png",
-    tags: ["CSS", "HTML", "JavaScript", "Mongodb", "NodeJS","Express","Redux","Material-UI",],
+    tags: ["Mongodb", "Express", "NodeJS", "React", "Redux"],
     source: "https://github.com/rohitc437/E-Commerce-2",
     visit: "https://e-commerce-store-app-2.herokuapp.com/",
     id: 0,
