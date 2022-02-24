@@ -10,12 +10,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Web Shop",
-    description: "A web application to serve online shoping.",
+    title: "E-Commerce Store",
+    description: "A web application to serve online shoping Store.",
     image: "/images/2.png",
-    tags: ["CSS", "HTML", "JavaScript", "Mongodb", "NodeJS"],
-    source: "https://github.com/mayur8600/Dunzo",
-    visit: "https://mrrupendra.github.io/Dunzo_Clone/",
+    tags: ["CSS", "HTML", "JavaScript", "Mongodb", "NodeJS","Express","Redux","Material-UI",],
+    source: "https://github.com/rohitc437/E-Commerce-2",
+    visit: "https://e-commerce-store-app-2.herokuapp.com/",
     id: 0,
   },
 ];
