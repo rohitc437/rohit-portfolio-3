@@ -31,7 +31,7 @@ const Hero = (props) => (
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://drive.google.com/drive/folders/113CbEr9YtdYnfrX_Nvs9ywM9hi6vcvkc?usp=sharing"
+          href="https://drive.google.com/file/d/11AjKNCwhuk79mrqAhfe2CfNpqWDrYW3a/view?usp=sharing"
         >
           <Button>Resume </Button>
         </a>
